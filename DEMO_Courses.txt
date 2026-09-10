@@ -1,0 +1,1 @@
+FICTIONAL DEMO UNIVERSITY — not real university policy. CS101 Introduction to Programming has no prerequisite and carries 3 credits. CS201 Data Structures requires passing CS101 and carries 3 credits. CS301 Artificial Intelligence requires passing CS201 and MATH201. MATH201 Linear Algebra requires passing MATH101.
